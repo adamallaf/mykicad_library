@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ETAL_P3324
+D 1:1 tranformator
+K p3324
+F http://www.farnell.com/datasheets/1811749.pdf
+$ENDCMP
+#
+#End Doc Library
